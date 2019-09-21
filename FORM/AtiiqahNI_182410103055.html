@@ -1,45 +1,31 @@
 <!DOCTYPE html>
 <html>
-<style type="text/css">
-		body{
-			background: aqua;
-		}
-		h1{
-			font-family:sans-serif;		
-		}
-</style>
 <head>
+	<link rel="stylesheet" type="text/css" href="3055.css">
 	<title>182410103055</title>
 </head>
 <body>
 	<h1>Masukkan Biodata Anda</h1>
-	<table>
-		<tr>
-			<td>Nama</td>
-			<td>:</td>
-			<td><input type="text" name="nama" placeholder="Nama"></td>
-		</tr>
-		<tr>
-			<td>NIM</td>
-			<td>:</td>
-			<td><input type="number" name="NIM" placeholder="Nomor Induk Mahasiswa"></td>
-		</tr>
-		<tr>
-			<td>Password</td>
-			<td>:</td>
-			<td><input type="Password" name="password" placeholder="Password"></td>
-		</tr>
-		<tr>
-			<td>Jenis Kelamin</td>
-			<td>:</td>
-			<td><input type="radio" name="gender" value="Male">Laki Laki<br><input type="radio" name="gender" value="Female">Perempuan</td>
-		</tr>
-	<td><input type="checkbox" name="check">Semua Inputan Benar</td>
+	<div class="kiri">
+		<p>NIM</p>
+<input type="number" name="NIM" placeholder="Nomor Induk Mahasiswa">
+		<p>Jenis Kelamin</p> 
+<input type="radio" name="gender" value="Male">Laki Laki <br>
+<input type="radio" name="gender" value="Female">Perempuan <br><br>
+<input type="checkbox" name="check">Semua Inputan Benar <br>
+<br>
 
-	</table>
+	</div>	
+	<div class="kanan">
+<p>Nama</p>
+<input type="text" name="nama" placeholder="Nama">
+<p>Password</p>
 
-<input type="submit" name="">
+<input type="Password" name="password" placeholder="Password">
 
-
+	</div>
+	<div class="submit">
+		<input type="submit" name="">
+	</div>
 </body>
 </html>
