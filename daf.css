@@ -1,0 +1,73 @@
+body{
+	font-family: Segoe UI;
+
+}
+
+label{
+	font-size: 12pt;
+	font-family: Segoe UI;
+	
+}
+
+.Daftar{
+	text-align: center;
+	font-size: 18pt;
+}
+
+.kotakmasuk{
+	text-align: center;
+	background: #676060;
+	float: center;
+	width: 1190px;
+	height: 600px;
+	margin: 50px;
+	padding: 5px 30px;
+	border: none;
+	border-radius: 30px;
+	font-size: 15pt;
+}
+
+.form{
+	box-sizing: border-box;
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+	float: center;
+}
+
+.mail{
+		box-sizing: border-box;
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+	float: center;
+}
+
+.Password{
+		box-sizing: border-box;
+	width: 30%;
+	height: 30%;
+	padding: 4px;
+	font-size: 12pt;
+	margin-bottom: 25px;
+	border-radius: 6px;
+	font-family: Segoe UI;
+	float: center;
+}
+
+.join{
+	width: 200px;
+	height: 50px;
+	background: #2B9B36;
+	font-size: 12pt;
+	font-family: Segoe UI;
+	margin: 70px;
+}
