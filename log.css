@@ -1,5 +1,6 @@
 body{
 	font-family: Segoe UI;
+
 }
 
 .taksbar{
@@ -11,30 +12,32 @@ body{
 	top: 0px;
 }
 
-.kotakmasuk{
+label{
+	font-size: 12pt;
+	font-family: Segoe UI;
+	
+}
+
+.kotaklogin{
 	text-align: center;
 	background: #676060;
 	width: 1190px;
-	height: 700px;
+	height: 500px;
 	margin: 50px;
-	padding: 20px 18px;
+	padding: 5px 30px;
+	border: none;
 	border-radius: 30px;
 	font-size: 15pt;
 	position: absolute;
 	top: 35px;
 }
 
-.Daftar{
+.Login{
 	text-align: center;
 	font-size: 18pt;
 }
 
-.label{
-	font-size: 11pt;
-	font-family: Segoe UI;
-}
-
-.first{
+.form{
 	box-sizing: border-box;
 	width: 30%;
 	height: 30%;
@@ -45,51 +48,12 @@ body{
 	font-family: Segoe UI;
 }
 
-.last{
-	box-sizing: border-box;
-	width: 30%;
-	height: 30%;
-	padding: 4px;
-	font-size: 12pt;
-	margin-bottom: 25px;
-	border-radius: 6px;
-	font-family: Segoe UI;
+.F_password{
+	font-size: 10pt;
+	color: #00008B;
 }
 
-.mail{
-	box-sizing: border-box;
-	width: 30%;
-	height: 30%;
-	padding: 4px;
-	font-size: 12pt;
-	margin-bottom: 25px;
-	border-radius: 6px;
-	font-family: Segoe UI;
-}
-
-.no{
-	box-sizing: border-box;
-	width: 30%;
-	height: 30%;
-	padding: 4px;
-	font-size: 12pt;
-	margin-bottom: 25px;
-	border-radius: 6px;
-	font-family: Segoe UI;
-}
-
-.Password{
-	box-sizing: border-box;
-	width: 30%;
-	height: 30%;
-	padding: 4px;
-	font-size: 12pt;
-	margin-bottom: 25px;
-	border-radius: 6px;
-	font-family: Segoe UI;
-}
-
-.join{
+.b_login{
 	width: 200px;
 	height: 50px;
 	background: #2B9B36;

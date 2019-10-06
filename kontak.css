@@ -1,0 +1,150 @@
+body{
+	
+	font-family: Segoe UI;
+	background : #56BBB1;
+}
+
+.taksbar{
+	color: #56BBB1;
+	position: fixed;
+	width: 1366px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+
+.kotakkontak{
+	background : #D9D7D7;
+	position: absolute;
+	width: 1228px;
+	height: 701px;
+	left: 69px;
+	top: 80px;
+	border-radius: 15px;
+}
+
+
+.kontak{
+	position: absolute;
+	left: 50px;
+	top: 5px;
+	width: 181px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+.tanya{
+	position: absolute;
+	left: 180px;
+	top: 155px;
+	width: 783px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 21px;
+}
+
+.namaa{
+	position: absolute;
+	left: 180px;
+	top: 180px;
+	width: 783px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.nama{
+	position: absolute;
+	left: 180px;
+	top: 210px;
+	width: 783px;
+	height: 25px;
+	font-family: Segoe UI;
+	font-size: 15px;
+}
+
+.emaill{
+	position: absolute;
+	left: 180px;
+	top: 270px;
+	width: 783px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.email{
+	position: absolute;
+	left: 180px;
+	top: 300px;
+	width: 783px;
+	height: 25px;
+	font-family: Segoe UI;
+	font-size: 15px;
+}
+
+
+.pesann{
+	position: absolute;
+	left: 180px;
+	top: 360px;
+	width: 783px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.pesan{
+	position: absolute;
+	left: 180px;
+	top: 390px;
+	width: 783px;
+	height: 100px;
+	font-family: Segoe UI;
+	font-size: 15px;
+}
+
+.submit{
+	position: absolute;
+	left: 500px;
+	top: 550px;
+	width: 150px;
+	height: 40px;
+	background: #2B9B36;
+	font-size: 15pt;
+	font-family: Segoe UI;
+	font-weight: bold;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333
+
+}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 18px;
+  text-decoration: none;
+  font-size: 17pt;
+}
+
+.YUHUU.COM{
+	float: left;
+}

@@ -1,0 +1,96 @@
+
+body{
+	
+	font-family: Segoe UI;
+	background : #56BBB1;
+
+}
+.taksbar{
+	color: #56BBB1;
+	position: fixed;
+	width: 1366px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+
+}
+
+.kotaktentang{
+	background : #D9D7D7;
+	position: absolute;
+	width: 1200px;
+	height: 450px;
+	left: 80px;
+	top: 90px;
+	border-radius: 15px;
+}
+
+.tentang{
+	position: absolute;
+	left: 50px;
+	top: 5px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.selamat{
+	position: absolute;
+	left: 90px;
+	top: 100px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.yuhu{
+	position: absolute;
+	left: 90px;
+	top: 155px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+.selain{
+	position: absolute;
+	left: 90px;
+	top: 230px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333
+
+}
+
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 18px;
+  text-decoration: none;
+  font-size: 17pt;
+}
+
+.YUHUU.COM{
+	float: left;
+}
