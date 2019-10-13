@@ -56,13 +56,19 @@ img{
 .js{
 	position: absolute;
 	top: 65%;
-	left: 35%
+	left: 20%
 }
 
 .c{
 	position: absolute;
 	top: 65%;
-	left: 60%
+	left: 47%
+}
+
+.css{
+	position: absolute;
+	top: 65%;
+	left: 75%
 }
 
 ul{
