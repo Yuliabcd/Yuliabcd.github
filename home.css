@@ -44,6 +44,203 @@ body{
 	font-family: Segoe UI;
 	font-size: 25px;
 	font-weight: bold;
+	font color: black;
+}
+
+.kotakdis{
+	position: absolute;
+	top: 30%;
+	left: 34%;
+	width: 350px;
+	height: 90px;
+	background: white;
+	border-radius: 18px;
+	opacity: 0.7;
+}
+
+.kotak1{
+	position: absolute;
+	top: 91%;
+	left: 6%;
+	width: 310px;
+	height: 210px;
+	border-radius: 10px;
+	opacity: 0.9;
+}
+
+.teks1{
+	position: absolute;
+	top: 90%;
+	left: 8%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+}
+
+.te{
+	position: absolute;
+	top: 98%;
+	left: 7%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+	color: black;
+	font-size: 16px;	
+}
+
+.kotak2{
+	position: absolute;
+	top: 91%;
+	left: 38%;
+	width: 310px;
+	height: 210px;
+	border-radius: 10px;
+}
+
+.teks2{
+	position: absolute;
+	top: 90%;
+	left: 40%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+}
+
+.tee{
+	position: absolute;
+	top: 98%;
+	left: 39%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+	color: black;
+	font-size: 16px;	
+}
+
+.kotak3{
+	position: absolute;
+	top: 91%;
+	left: 69%;
+	width: 310px;
+	height: 210px;
+	border-radius: 10px;
+}
+
+.teks3{
+	position: absolute;
+	top: 90%;
+	left: 72%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+}
+
+.teee{
+	position: absolute;
+	top: 98%;
+	left: 70%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+	color: black;
+	font-size: 16px;	
+}
+
+.kotak4{
+	position: absolute;
+	top: 130%;
+	left: 6%;
+	width: 310px;
+	height: 210px;
+	border-radius: 10px;
+}
+
+.teks4{
+	position: absolute;
+	top: 130%;
+	left: 10%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+}
+
+.le{
+	position: absolute;
+	top: 138%;
+	left: 7%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+	color: black;
+	font-size: 16px;	
+}
+
+.kotak5{
+	position: absolute;
+	top: 130%;
+	left: 38%;
+	width: 310px;
+	height: 210px;
+	border-radius: 10px;
+}
+
+.teks5{
+	position: absolute;
+	top: 130%;
+	left: 40%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+}
+
+.lee{
+	position: absolute;
+	top: 138%;
+	left: 39%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+	color: black;
+	font-size: 16px;	
+}
+
+.kotak6{
+	position: absolute;
+	top: 130%;
+	left: 69%;
+	width: 310px;
+	height: 210px;
+	border-radius: 10px;
+}
+
+.teks6{
+	position: absolute;
+	top: 130%;
+	left: 72%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+}
+
+.leee{
+	position: absolute;
+	top: 138%;
+	left: 70%;
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+	color: black;
+	font-size: 16px;	
+}
+
+.kotakabu{
+	position: absolute;
+	top: 85%;
+	left: 3%;
+	width: 1250px;
+	height: 550px;
+	background: #1E1E1E;
+	border-radius: 18px;
 }
 
 ul{
@@ -52,7 +249,6 @@ ul{
 	padding: 0;
 	overflow: hidden;
 	background-color: #333
-
 }
 
 ul {
