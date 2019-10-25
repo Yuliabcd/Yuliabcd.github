@@ -48,9 +48,15 @@ label{
 	font-family: Segoe UI;
 }
 
-.F_password{
+.belum{
 	font-size: 10pt;
 	color: #00008B;
+}
+
+.buat{
+	font-size: 10pt;
+	color: red;
+	font-weight: bold;
 }
 
 .b_login{
@@ -67,7 +73,7 @@ ul{
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #333
+	background-color: #333;
 
 }
 
@@ -88,8 +94,4 @@ li a {
   padding: 14px 18px;
   text-decoration: none;
   font-size: 17pt;
-}
-
-.YUHUU.COM{
-	float: left;
 }

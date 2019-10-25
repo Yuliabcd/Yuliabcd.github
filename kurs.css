@@ -24,7 +24,7 @@ body{
 	position: absolute;
 	left: 27%;
 	top: 5%;
-	font-family: Segoe UI;
+	font-family: Copperplate Gothic;
 	font-weight: bold;
 	font-size: 25px;
 }
@@ -59,7 +59,7 @@ img{
 	left: 20%;
 }
 
-.c{
+.cp{
 	position: absolute;
 	top: 65%;
 	left: 47%;
@@ -71,12 +71,67 @@ img{
 	left: 75%;
 }
 
+.a{
+	position: absolute;
+	top: 54%;
+	left: 22%;
+	font-size: 17px;
+	font-color: black;
+	font-weight: bold;
+	font-family: Sitka Small;
+}
+
+.b{
+	position: absolute;
+	top: 54%;
+	left: 48%;
+	font-size: 17px;
+	font-color: black;
+	font-weight: bold;
+	font-family: Sitka Small;
+}
+.c{
+	position: absolute;
+	top: 54%;
+	left: 77.5%;
+	font-size: 17px;
+	font-color: black;
+	font-weight: bold;
+	font-family: Sitka Small;
+}
+.d{
+	position: absolute;
+	top: 89%;
+	left: 19.5%;
+	font-size: 17px;
+	font-color: black;
+	font-weight: bold;
+	font-family: Sitka Small;
+}
+.e{
+	position: absolute;
+	top: 89%;
+	left: 49%;
+	font-size: 17px;
+	font-color: black;
+	font-weight: bold;
+	font-family: Sitka Small;
+}
+.f{
+	position: absolute;
+	top: 89%;
+	left: 78%;
+	font-size: 17px;
+	font-color: black;
+	font-weight: bold;
+	font-family: Sitka Small;
+}
 ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #333
+	background-color: #333;
 
 }
 

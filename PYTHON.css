@@ -11,7 +11,6 @@ body{
   height: 70px;
   left: 0px;
   top: 0px;
-
 }
 
 .kotakabu{
@@ -34,10 +33,9 @@ body{
 }
 
 .list{
-	margin-left: 50px;
-	font-family: Segoe Script;
+  margin-left: 50px;
+  font-family: Segoe Script;
 }
-
 
 .abu{
   background : #959595;
@@ -57,11 +55,11 @@ body{
 }
 
 ul{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: #333
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333
 
 }
 
