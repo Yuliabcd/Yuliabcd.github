@@ -56,6 +56,11 @@ body{
   font-weight: bold;
 }
 
+div a{
+  list-style: none;
+}
+
+
 ul{
 	list-style-type: none;
 	margin: 0;

@@ -32,57 +32,90 @@ body{
   font color: black;
 }
 
-.mengenal{
+.membuat{
 	position: absolute;
-  left: 40%;
+  left: 34%;
   top: 18%;
   font-family: Berlin Sans FB;
   font-size: 25px;	
   font color: black;
 }
 
-.pengertian{
+.hello{
   position: absolute;
   left: 10%;
-  top: 26%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
+  top: 23%;
+  font-family: Tekton Pro;
+  font-size: 50px;  
   font color: black;
-  width: 980px;
-  text-align: justify; 
 }
 
-.java{
+.tidak{
   position: absolute;
   left: 10%;
-  top: 39%;
+  top: 35%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 980px;
+  width: 1080px;
   text-align: justify;
 }
 
-.akrab{
+.karna{
   position: absolute;
   left: 10%;
-  top: 58%;
+  top: 50%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 980px;
+  width: 1080px;
   text-align: justify;
 }
 
-.anda{
+.a{
+  position: absolute;
+  left: 15%;
+  top: 68%;
+}
+
+.ada{
   position: absolute;
   left: 10%;
-  top: 77%;
+  top: 90%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 980px;
+  width: 1080px;
   text-align: justify;
+}
+
+.list{
+  position: absolute;
+  left: 10%;
+  top: 95%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  line-height: 27px;
+  text-align: justify;
+}
+
+.sekarang{
+  position: absolute;
+  left: 10%;
+  top: 120%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
+}
+
+.b{
+  position: absolute;
+  left: 10%;
+  top: 128%;
 }
 
 ul{

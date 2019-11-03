@@ -32,85 +32,161 @@ body{
   font color: black;
 }
 
-.fungsi{
+.macam{
 	position: absolute;
-  left: 40%;
+  left: 36%;
   top: 18%;
   font-family: Berlin Sans FB;
   font-size: 25px;	
   font color: black;
 }
 
-.pengertian{
+.java{
   position: absolute;
   left: 10%;
   top: 26%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 1100px;
+  width: 1080px;
   text-align: justify;
 }
 
-.mendefinisikan{
+.A{
   position: absolute;
   left: 10%;
-  top: 36%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
+  top: 37%;
+  font-family: Tekton Pro;
+  font-size: 25px;  
   font color: black;
   font-weight: bold;
-  width: 1100px;
 }
 
-.anda{
+.integer{
   position: absolute;
   left: 10%;
-  top: 40%;
+  top: 42%;
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 1100px;
+  width: 1080px;
   text-align: justify;
-}
-
-.berikut{
-  position: absolute;
-  left: 10%;
-  top: 45%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1100px;
-  text-align: justify;
-}
-
-.list{
-  position: absolute;
-  left: 10%;
-  top: 50%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1100px;
-  line-height: 26px;
-  text-align: justify;
-}
-
-.contoh{
-  position: absolute;
-  left: 10%;
-  top: 78%;
-  font-family: Berlin Sans FB;
-  font-size: 20px;  
-  font color: black;
-  width: 1100px;
 }
 
 .a{
   position: absolute;
+  left: 20%;
+  top: 59%;
+}
+
+.floating{
+  position: absolute;
   left: 10%;
-  top: 85%;
+  top: 82%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
+}
+
+.b{
+  position: absolute;
+  left: 20%;
+  top: 99%;
+}
+
+.char{
+  position: absolute;
+  left: 10%;
+  top: 119%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
+}
+
+.c{
+  position: absolute;
+  left: 20%;
+  top: 149%;
+}
+
+.boolean{
+  position: absolute;
+  left: 10%;
+  top: 200%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
+}
+
+.B{
+  position: absolute;
+  left: 10%;
+  top: 215%;
+  font-family: Tekton Pro;
+  font-size: 25px;  
+  font color: black;
+  font-weight: bold;
+}
+
+.class{
+  position: absolute;
+  left: 10%;
+  top: 220%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
+}
+
+.dalam{
+  position: absolute;
+  left: 10%;
+  top: 235%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
+}
+
+.pada{
+  position: absolute;
+  left: 10%;
+  top: 247%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
+}
+
+.array{
+  position: absolute;
+  left: 10%;
+  top: 262%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
+}
+
+.interface{
+  position: absolute;
+  left: 10%;
+  top: 277%;
+  font-family: Berlin Sans FB;
+  font-size: 20px;  
+  font color: black;
+  width: 1080px;
+  text-align: justify;
 }
 
 ul{
@@ -118,8 +194,7 @@ ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333
-
+  background-color: #333;
 }
 
 ul {

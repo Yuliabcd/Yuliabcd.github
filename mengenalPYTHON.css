@@ -48,7 +48,8 @@ body{
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 1100px;
+  width: 1090px;
+  text-align: justify;
 }
 
 .sebagai{
@@ -58,7 +59,8 @@ body{
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 1100px;
+  width: 1090px;
+  text-align: justify;
 }
 
 .selain{
@@ -68,7 +70,8 @@ body{
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 1100px;
+  width: 1090px;
+  text-align: justify;
 }
 
 .python{
@@ -78,7 +81,8 @@ body{
   font-family: Berlin Sans FB;
   font-size: 20px;  
   font color: black;
-  width: 1100px;
+  width: 1090px;
+  text-align: justify;
 }
 
 ul{
